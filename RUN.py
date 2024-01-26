@@ -1,2 +1,2 @@
-from Bypass import Bypass
-Bypass()
+from Bypass import Get_Data
+Get_Data()
